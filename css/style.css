@@ -1,0 +1,87 @@
+body {
+    background-color: rgb(255, 160, 215);
+    margin-top: 20px;
+}
+
+.letras {
+    overflow: hidden;
+    background-color: rgb(20, 20, 20);
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+    .letras a {
+        float: left;
+        display: block;
+        color: rgb(255, 160, 215);
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+        font-size: 20px;
+
+    }
+
+        .letras a:hover {
+            background: #ddd;
+            co
+                lor: black;
+        }
+
+.glosario {
+    padding: 16px;
+    margin-top: 60px;
+    height: 1500px;
+}
+
+h1 {
+    width: 95%;
+    font-size: 60px;
+    text-align: center;
+    font-family: "Courier New", Courier, monospace;
+    color: rgb(255, 255, 255);
+    background-color: rgb(190 0 255);
+    padding: 30px;
+    line-height: 10px;
+    margin-top: 5%;
+}
+
+h2 {
+    width: 95%;
+    font-size: 18px;
+    text-align: center;
+    font-family: "Courier New", Courier, monospace;
+    color: rgb(190 0 255);
+    padding: 5px;
+    margin-top: 16px;
+    line-height: 5px;
+}
+
+h3 {
+    width: 95%;
+    font-size: 20px;
+    text-align: left;
+    font-family: "Courier New", Courier, monospace;
+    color: rgb(255, 255, 255);
+    background-color: rgb(20, 20, 20);
+    padding: 10px;
+    margin-top: 26px;
+}
+
+p {
+    width: 95%;
+    font-size: 16px;
+    text-align: center;
+    font-family: "Courier New", Courier, monospace;
+    color: black;
+    padding: 5px;
+}
+
+glorario {
+    padding: 16px;
+    margin-top: 70px;
+    height: 1500px;
+}
+
+
+
